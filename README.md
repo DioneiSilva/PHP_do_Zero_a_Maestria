@@ -22,7 +22,8 @@ Curso de Php prático,mão no código.Com 4 projetos.
 * Seção 21: Extra: Aprenda CSS
 * #### Seção 22: Extra:Projeto com HTML e CSS
 
-  ## Telas dos Projetos
+  ## Projetos
 
-  * ## Blog
-  #
+ * Blog
+    
+  
