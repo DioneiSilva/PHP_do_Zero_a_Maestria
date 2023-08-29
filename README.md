@@ -13,7 +13,7 @@ Curso de Php prático,mão no código.Com 4 projetos.
 * Seção 12: Introdução a Orientação a Objetos
 * Seção 13: Trabalhando com Datas
 * Seção 14: PHP e a web
-* Seção 15:Projeto 1: Blog
+* #### Seção 15:Projeto 1: Blog
 * Seção 16: PHP e Banco de dados (Mysql)
 * Seção 17:Projeto 2: Agenda
 * Seção 18: Design patterns e padrões de desenvolvimento
