@@ -17,7 +17,7 @@ Curso de Php prático,mão no código.Com 4 projetos.
 * Seção 16: PHP e Banco de dados (Mysql)
 * #### Seção 17:Projeto 2: Agenda
 * Seção 18: Design patterns e padrões de desenvolvimento
-* Seção 19: Projeto 3: MovieStar(POO)
-* Seção 20: Extra: aprenda HTML
+* #### Seção 19: Projeto 3: MovieStar(POO)
+* #### Seção 20: Extra: aprenda HTML
 * Seção 21: Extra: Aprenda CSS
-* Seção 22: Extra:Projeto com HTML e CSS
+* #### Seção 22: Extra:Projeto com HTML e CSS
