@@ -1,5 +1,5 @@
 # PHP_do_Zero_a_Maestria
-Curso de Php prático,mão no código.Com 4 projetos.
+O cCurso de Php prático,mão no código mesmo.Com 4 projetos.
 * Seção 1:Introdução
 * Seção 2:Conceitos básicos de PHP
 * Seção 3:Tipos de dados
